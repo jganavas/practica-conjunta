@@ -194,18 +194,20 @@ Implementación completa de la funcionalidad de **Favoritos** para usuarios aute
 - **Desarrollo de Componentes:**
     - Investigación del componente `Link` usado por los compañeros, y dejado plantilla en `Home.jsx` para ampliar más adelante.
 
-
-### Sesión 7 - [25-02-2026]
-**Responsable:** Ángeles
-
-**Detalles técnicos adicionales implementados en esta sesión:**
-
 - **Desarrollo de Componentes:**
     - Versión básica del componente `CategoryCard.jsx` para su uso en `Home.jsx`, que automatiza un poco la creación de articles para listar categorías. Queda pendiente probar su uso y consultar a los compañeros sobre la consulta a API.
 
 - **Diseño y UX:**
     - Mejora de la vista de `Home.jsx` en pantallas pequeñas o medianas (ancho de divs).
 
+### Sesión 8 - [26-02-2026]
+    -Planificación en grupo sobre como organizar la exposición del proyecto. Se ha acordado:
+    **Pepe**: Arquitectura del proyecto
+    **Desirée**:Introducción de la idea de proyecto y organización con el control de versiones Git.
+    **Ángeles**:Diseño de la aplicación y guía de estilos.
+    **Rubén**:Funcionalidad de favoritos y header.
+
+    *Además, cada uno participará en la demo de manera dinámica explicando la parte que ha hecho.
 -------
 
 _Este diario se actualizará con los progresos de cada sesión de trabajo._
